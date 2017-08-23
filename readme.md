@@ -1,5 +1,3 @@
-
-
 [Lish.ir](http://lish.ir)
 --------
 
